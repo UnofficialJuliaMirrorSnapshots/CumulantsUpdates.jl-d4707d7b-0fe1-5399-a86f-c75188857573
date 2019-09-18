@@ -1,6 +1,9 @@
-julia 0.7 
-SymmetricTensors 
+julia 1.0
+SymmetricTensors
 Cumulants
+LinearAlgebra
 StatsBase
 FileIO
 JLD2
+Distributed
+Random
